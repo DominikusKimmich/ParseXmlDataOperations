@@ -1,0 +1,10 @@
+﻿  Dominikus_Kimmich.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  ProcessDataOperationsToResults.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\aista\GitHub_DominikusKimmich\ParseXmlDataOperations\ProcessDataOperationsToResults.cpp(105,44): warning C4244: "=": Konvertierung von "size_t" in "double", möglicher Datenverlust
+C:\Users\aista\GitHub_DominikusKimmich\ParseXmlDataOperations\ProcessDataOperationsToResults.cpp(135,29): warning C4244: "=": Konvertierung von "size_t" in "double", möglicher Datenverlust
+C:\Users\aista\GitHub_DominikusKimmich\ParseXmlDataOperations\ProcessDataOperationsToResults.cpp(167,30): warning C4244: "=": Konvertierung von "unsigned __int64" in "double", möglicher Datenverlust
+  Code wird generiert...
+C:\Users\aista\GitHub_DominikusKimmich\ParseXmlDataOperations\ProcessDataOperationsToResults.cpp(171,30): warning C4244: "=": Konvertierung von "unsigned __int64" in "double", möglicher Datenverlust
+  Dominikus_Kimmich.vcxproj -> C:\Users\aista\GitHub_DominikusKimmich\ParseXmlDataOperations\x64\Debug\Dominikus_Kimmich.exe
